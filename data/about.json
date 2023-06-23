@@ -1,0 +1,9 @@
+{
+    "about": [
+        {
+            "description": 
+            "Nach einigen Jahren in der Elektrobranche plane ich eine berufliche Veränderung und möchte meine Leidenschaft für die Programmierung zum Beruf machen. Ich habe viel Zeit in das Selbststudium investiert und mich intensiv mit der Frontend-Entwicklung beschäftigt. Um meine Kenntnisse zu vertiefen, habe ich auch an einem JavaScript-Kurs teilgenommen.<br>Am 27. Februar habe ich meine Ausbildung zum Fullstack-Entwickler bei alfatraining Bildungszentrum begonnen. Den 8-wöchigen ersten Teil des Trainings, der die Java-Entwicklung umfasste, habe ich erfolgreich am 21. April abgeschlossen.<br>Am 19. Mai habe ich auch den 4-wöchigen zweiten Teil abgeschlossen, der die Grundlagen von PHP/MySQL beinhaltete. Seit dem 22. Mai habe ich mit dem dritten Teil des Kurses, JavaScript Developer, begonnen.",
+            "img": "./assets/img/profil-photo.jpeg"
+        }
+    ]
+}
