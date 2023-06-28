@@ -1,6 +1,6 @@
 'use strict';
 
-import { settings } from "./settings.js";
+import settings from "./settings.js";
 
 export const ajax = {
 

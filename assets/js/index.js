@@ -1,6 +1,6 @@
 'use strict';
 
-import { dom } from "./dom.js";
+import dom from "./dom.js";
 import { nav } from "./nav.js";
 import { ajax } from "./ajax.js";
 import { content } from "./content.js";
@@ -22,7 +22,8 @@ const appendEventlisteners = () => {
 const init = () => {
     domMapping();
     nav.create();
-    ajax.fetchData().then(content.renderAbout);
+    ajax.fetchData()
+            .then(content.renderAbout);
     
 }
 

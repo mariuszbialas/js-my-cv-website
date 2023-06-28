@@ -1,6 +1,6 @@
 'use strict';
 
-export const dom = {
+const dom = {
 
     sel(selector) {
         return document.querySelector(selector);
@@ -37,4 +37,4 @@ export const dom = {
     }
 }
 
-
+export default dom;

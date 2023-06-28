@@ -1,7 +1,7 @@
 'use strict';
 
-import { elements } from "./index.js";
-import { dom } from "./dom.js";
+import {elements} from "./index.js";
+import dom from "./dom.js";
 
 
 export const content = {
@@ -98,10 +98,11 @@ export const content = {
 
             if(post.link) 
                 dom.create({
-                content: 'LINK',
+                content: 'GitHub ❯❯❯',
                 type: 'a',
                 parent: container,
                 attr: {'href': post.link, 'target': '_blank'},
+                classes: ['link'],
                 })
         })
     },

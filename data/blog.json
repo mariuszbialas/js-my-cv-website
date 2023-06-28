@@ -1,9 +1,21 @@
 {
     "blog": [
         {
+            "title": "JavaScript: Woche 6",
+            "date": "2023-06-26 - 2023-06-30",
+            "description": "Import/Export, WebWorker, NodeJS, Node Module, WebServer, Middleware",
+            "link": ""
+        },
+        {
+            "title": "JavaScript: Woche 5",
+            "date": "2023-06-19 - 2023-06-23",
+            "description": "Arrays, Canvas, Objekte, Konstruktoren, Klassen, Prototiping, Iteratoren, Maps, Promisses",
+            "link": ""
+        },
+        {
             "title": "JavaScript: Woche 4",
             "date": "2023-06-12 - 2023-06-16",
-            "description": "Projektarbeit: Warenkorb.",
+            "description": "Projektarbeit: Warenkorb.<br>Die Webseite ist ein E-Shop für Oldtimer-Autoplakate der Marke Opel in verschiedenen Größen. Man kann das ausgewählte Plakat zum Warenkorb hinzufügen. Der Warenkorb wird im lokalen Speicher des Browsers gespeichert.",
             "link": "https://github.com/mariuszbialas/js-projekt-warenkorb"
         },
         {
@@ -27,7 +39,7 @@
         {
             "title": "PHP: Woche 4",
             "date": "2023-05-15 - 2023-05-19",
-            "description": "Abschlussprojekt: Blog.",
+            "description": "Abschlussprojekt Grundlagen PHP/MySQL: blog-Webseite.<br>Die Webseite hat eine Möglichkeit, Beiträge hinzuzufügen, die in einer MySQL-Datenbank gespeichert werden. Das Hinzufügen von Beiträgen ist nach vorheriger Anmeldung möglich.",
             "link": "https://github.com/mariuszbialas/php-project-blog"
         },
         {
@@ -50,7 +62,7 @@
         },
         {
             "title": "Java: Woche 8",
-            "date": "2023-04-77 - 2023-04-21",
+            "date": "2023-04-17 - 2023-04-21",
             "description": "Abschlussprojekt: Mein Kalendar<br>Mein Kalendar ist eine Java-Anwendung, die personalisierte Ereignisse wie Feiertage, Geburtstage, arbeitsfreie Tage, Sportveranstaltungen und Urlaubspläne anzeigt.",
             "link": "https://github.com/mariuszbialas/java-project-MeinKalendar"
         },
@@ -151,10 +163,13 @@
             "link": ""
         },
         {
-            "title": "Lerngang ist angefangen",
+            "title": "Lerngang hat angefangen",
             "date": "2022-03-01",
             "description": "Ich habe einen Kurs mit dem Titel \"Mega-Kurs JavaScript\" begonnen. Der Kurs dauert bis Ende März 2023 und ist in fünf Wochen dauernde Phasen unterteilt. Jede Phase umfasst 25 Unterrichtseinheiten und 5 Live-Codings.",
             "link": ""
         }
     ]
 }
+
+
+

@@ -1,7 +1,7 @@
 'use strict';
 
-import { settings } from "./settings.js";
-import { dom } from "./dom.js";
+import settings from "./settings.js";
+import dom from "./dom.js";
 import { elements } from "./index.js";
 import { ajax } from "./ajax.js";
 import { content } from "./content.js";

@@ -1,6 +1,6 @@
 'use strict';
 
-export const settings = {
+const settings = {
 
     menu:
         [
@@ -12,3 +12,5 @@ export const settings = {
 
 
 }
+
+export default settings;
