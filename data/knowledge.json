@@ -5,16 +5,20 @@
             "percent": 70
         },
         {
+            "name": "mySQL Database",
+            "percent": 70
+        },
+        {
+            "name": "noSQL couchDB",
+            "percent": 50
+        },
+        {
             "name": "Java SE",
             "percent": 55
         },
         {
             "name": "PHP",
             "percent": 55
-        },
-        {
-            "name": "mySQL Database",
-            "percent": 70
         },
         {
             "name": "HTML",
@@ -41,16 +45,16 @@
             "percent": 60
         },
         {
-            "name": "Polnisch - Muttersprache",
-            "percent": 90
-        },
-        {
             "name": "Deutsch",
             "percent": 65
         },
         {
             "name": "Englisch",
             "percent": 50
+        },
+        {
+            "name": "Polnisch - Muttersprache",
+            "percent": 90
         }
     ]
 }
