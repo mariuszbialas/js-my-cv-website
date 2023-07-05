@@ -5,6 +5,18 @@
             "percent": 70
         },
         {
+            "name": "Node.JS",
+            "percent": 70
+        },
+        {
+            "name": "React.JS",
+            "percent": 30
+        },
+        {
+            "name": "Vue.JS",
+            "percent": 30
+        },
+        {
             "name": "mySQL Database",
             "percent": 70
         },

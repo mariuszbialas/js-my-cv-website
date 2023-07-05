@@ -1,8 +1,8 @@
 {
     "download": [
-        {"name": "Mein Lebenslauf", "url": "./assets/pdf/lebenslauf-mariusz-bialas.pdf"},
-        {"name": "Java-Entwickler", "url": "./assets/pdf/zertifikat-java.pdf"},
-        {"name": "Grundlagen PHP/MySQL", "url": "./assets/pdf/zertifikat-php.pdf"}
+        {"name": "Mein Lebenslauf", "url": "./assets/pdf/lebenslauf-mariusz-bialas.pdf", "img": "download"},
+        {"name": "Java-Entwickler", "url": "./assets/pdf/zertifikat-java.pdf", "img": "download"},
+        {"name": "Grundlagen PHP/MySQL", "url": "./assets/pdf/zertifikat-php.pdf", "img": "download"}
     ]
    
 }

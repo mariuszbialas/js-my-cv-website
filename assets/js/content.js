@@ -82,10 +82,19 @@ export const content = {
                 classes: ['title']
             });
 
+            const date = dom.create({parent: container});
+
+            dom.create({
+                parent: date,
+                type: 'span',
+                content: 'calendar_month',
+                classes: ['material-symbols-outlined','date']
+            });
+
             dom.create({
                 content: post.date,
                 type: 'p',
-                parent: container,
+                parent: date,
                 classes: ['date']
             });
 
@@ -98,7 +107,7 @@ export const content = {
 
             if(post.link) 
                 dom.create({
-                content: 'GitHub ❯❯❯',
+                content: 'gitHub ❯❯❯',
                 type: 'a',
                 parent: container,
                 attr: {'href': post.link, 'target': '_blank'},
@@ -124,12 +133,23 @@ export const content = {
                 classes: ['title']
             });
 
+            const link = dom.create({
+                parent: container,
+            });
+
+            dom.create({
+                parent: link,
+                type: 'span',
+                content: item.img,
+                classes: ['material-symbols-outlined']
+            })
+
             let fileName = item.url.split('/');
             fileName = fileName[fileName.length - 1];
-            let link = dom.create({
+            dom.create({
                 content: fileName,
                 type: 'a',
-                parent: container,
+                parent: link,
                 classes: ['link'],
                 attr: {'href': item.url, 'target': '_blank'}
             });
