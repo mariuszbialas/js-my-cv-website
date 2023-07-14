@@ -1,6 +1,18 @@
 {
     "blog": [
         {
+            "title": "JavaScript: Woche 8",
+            "date": "23-07-07 - 23-07-14",
+            "description": "Projektarbeit: RESTful API.<br>Das Projekt ist eine RESTful API in ExpresJS programmiert.<br>Datenquelle: CouchDB-Datenbank",
+            "link": "https://github.com/mariuszbialas/js-project-rest-api"
+        },
+        {
+            "title": "JavaScript: Woche 8",
+            "date": "23-07-07 - 23-07-14",
+            "description": "Projektarbeit: Familienkalender.<br>Das Projekt ist eine JavaScript Vanilla Webseite, die personalisierte Veranstaltungen wie Feiertage, Geburtstage, arbeitsfreie Tage, usw. anzeigt.",
+            "link": "https://github.com/mariuszbialas/js-project-calendar"
+        },
+        {
             "title": "JavaScript: Woche 7",
             "date": "23-07-03 - 23-07-07",
             "description": "Websocket, KI Einführung, React.JS und Vue.JS Grundlagen",
