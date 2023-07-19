@@ -17,20 +17,24 @@
             "percent": 30
         },
         {
-            "name": "mySQL Database",
-            "percent": 70
-        },
-        {
-            "name": "noSQL couchDB",
-            "percent": 50
-        },
-        {
             "name": "Java SE",
             "percent": 55
         },
         {
             "name": "PHP",
             "percent": 55
+        },
+        {
+            "name": "MySQL Database",
+            "percent": 70
+        },
+        {
+            "name": "couchDB",
+            "percent": 40
+        },
+        {
+            "name": "mongoDB",
+            "percent": 40
         },
         {
             "name": "HTML",

@@ -2,7 +2,8 @@
     "download": [
         {"name": "Mein Lebenslauf", "url": "./assets/pdf/lebenslauf-mariusz-bialas.pdf", "img": "download"},
         {"name": "Java-Entwickler", "url": "./assets/pdf/zertifikat-java.pdf", "img": "download"},
-        {"name": "Grundlagen PHP/MySQL", "url": "./assets/pdf/zertifikat-php.pdf", "img": "download"}
+        {"name": "Grundlagen PHP/MySQL", "url": "./assets/pdf/zertifikat-php.pdf", "img": "download"},
+        {"name": "Javascript Developer", "url": "./assets/pdf/zertifikat-javascript.pdf", "img": "download"}
     ]
    
 }
