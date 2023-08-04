@@ -14,13 +14,13 @@ export const content = {
 
         const container = dom.create({
             parent: elements.main,
-            classes: ['content']
+            classes: ['content, about']
         });
 
         const pic = dom.create({
             type: 'img',
             parent: container,
-            attr: { "src": img}
+            attr: { "src": img, "alt": 'Mariusz Bialas profil Bild'}
         });
 
         dom.create({

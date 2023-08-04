@@ -1,6 +1,30 @@
 {
     "blog": [
         {
+            "title": "React JS: Woche 3",
+            "date": "7.August - 11.August 2023",
+            "description": "Projektarbeit",
+            "link": ""
+        },
+        {
+            "title": "React JS: Woche 3",
+            "date": "31.Juli - 4.August 2023",
+            "description": "Rest API Aufbau, Front- und Back-end Integration, Classes, Flux/Redux",
+            "link": ""
+        },
+        {
+            "title": "React JS: Woche 2",
+            "date": "25.Juli - 28.Juli 2023",
+            "description": "React Router, React State, Serveranbindung DB",
+            "link": ""
+        },
+        {
+            "title": "React JS: Woche 1",
+            "date": "17.Juli - 21.Juli 2023",
+            "description": "Einführung und IDE's, JavaScript Frameworks: Angular, Vue und React, Projektplanung, React Komponenten",
+            "link": ""
+        },
+        {
             "title": "4. Teil des Kurses",
             "date": "17.Juli - 11.August 2023",
             "description": "React JavaScript-Bibliothek<br><br><hr>",
