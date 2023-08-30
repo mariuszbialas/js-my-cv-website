@@ -1,193 +1,235 @@
 {
     "blog": [
         {
+            "title": "TypeScript: Grundlagen",
+            "date": "28.August - 1.Semptember 2023",
+            "description": "Transpilierung/Kompilierung, Konfiguration der Entwicklungsumgebung, Typen, Casting, Schnittstellen und Klassen",
+            "divide": "<hr>",
+            "link": ""
+        },
+        {
             "title": "Urlaub 🏝️",
             "date": "14.August - 25.August 2023",
             "description": "",
+            "divide": "<hr>",
+            "link": ""
+        },
+        {
+            "title": "Ende der Weiterbildung",
+            "date": "11.August 2023",
+            "description": "",
+            "divide": "",
             "link": ""
         },
         {
             "title": "React JS: Woche 4",
             "date": "7.August - 11.August 2023",
             "description": "Projektarbeit: Fußball-STATS: Neuigkeiten, Berichte und Updates zu nationalen und internationalen Fußball-Meisterschaften, Ligen und Mannschaften.",
+            "divide": "",
             "link": "https://github.com/mariuszbialas/react-project-footballStats"
         },
         {
             "title": "React JS: Woche 3",
             "date": "31.Juli - 4.August 2023",
             "description": "Rest API Aufbau, Front- und Back-end Integration, Classes, Flux/Redux",
+            "divide": "",
             "link": ""
         },
         {
             "title": "React JS: Woche 2",
             "date": "24.Juli - 28.Juli 2023",
             "description": "React Router, React State, Serveranbindung DB",
+            "divide": "",
             "link": ""
         },
         {
             "title": "React JS: Woche 1",
             "date": "17.Juli - 21.Juli 2023",
             "description": "Einführung und IDE's, JavaScript Frameworks: Angular, Vue und React, Projektplanung, React Komponenten",
+            "divide": "",
             "link": ""
         },
         {
             "title": "4. Teil des Kurses",
             "date": "17.Juli - 11.August 2023",
-            "description": "React JavaScript-Bibliothek<br><br><hr>",
+            "description": "React JavaScript-Bibliothek",
+            "divide": "<hr>",
             "link": ""
         },
         {
             "title": "JavaScript: Woche 8",
             "date": "7.Juli - 14.Juli 2023",
             "description": "Projektarbeit: RESTful API.<br>Das Projekt ist eine RESTful API in ExpresJS programmiert.<br>Datenquelle: CouchDB-Datenbank",
+            "divide": "",
             "link": "https://github.com/mariuszbialas/js-project-rest-api"
         },
         {
             "title": "JavaScript: Woche 8",
             "date": "7.Juli - 14.Juli 2023",
             "description": "Projektarbeit: Familienkalender.<br>Das Projekt ist eine JavaScript Vanilla Webseite, die personalisierte Veranstaltungen wie Feiertage, Geburtstage, arbeitsfreie Tage, usw. anzeigt.",
+            "divide": "",
             "link": "https://github.com/mariuszbialas/js-project-calendar"
         },
         {
             "title": "JavaScript: Woche 7",
             "date": "3.Juli - 7.Juli 2023",
             "description": "Websocket, KI Einführung, React.JS und Vue.JS Grundlagen",
+            "divide": "",
             "link": ""
         },
         {
             "title": "JavaScript: Woche 6",
             "date": "26.Juni - 30.Juni 2023",
             "description": "Import/Export , WebWorker, Node JS, Node Module, WebServer, Middleware, Database Verbindung, couchDB, Websocker",
+            "divide": "",
             "link": ""
         },
         {
             "title": "JavaScript: Woche 5",
             "date": "19.Juni - 23.Juni 2023",
             "description": "Arrays, Canvas, Objekte, Konstruktoren, Klassen, Prototiping, Iteratoren, Maps, Promisses",
+            "divide": "",
             "link": ""
         },
         {
             "title": "JavaScript: Woche 4",
             "date": "12.Juni - 16.Juni 2023",
             "description": "Projektarbeit: Warenkorb.<br>Die Webseite ist ein E-Shop für Oldtimer-Autoplakate der Marke Opel in verschiedenen Größen. Man kann das ausgewählte Plakat zum Warenkorb hinzufügen. Der Warenkorb wird im lokalen Speicher des Browsers gespeichert.",
+            "divide": "",
             "link": "https://github.com/mariuszbialas/js-projekt-warenkorb"
         },
         {
             "title": "JavaScript: Woche 3",
             "date": "5.Juni - 9.Juni 2023",
             "description": "AJAX, Funktionsweise, http-Anfragen, XMLHttpRequest-Objekt, Eigene Bibliothek erstellen, jQuery",
+            "divide": "",
             "link": ""
         },
         {
             "title": "JavaScript: Woche 2",
             "date": "30.Mai - 02.Juni 2023",
             "description": "Objekte, DOM-Manipulation mit JavaScript, HTML-Selektieren, DOM-Elemente anlegen,DOM-Elemente kopieren, verschieben, löschen, Cookies, Webstorage.",
+            "divide": "",
             "link": ""
         },
         {
             "title": "JavaScript: Woche 1",
             "date": "22.Mai - 26.Mai 2023",
             "description": "Einbinden in HTML-Seiten, Variablen, Konstanten und Datentypen, Operatoren, Kontrollstrukturen, Bedingte Anweisungen, Bedingte Anweisungen, Schleifen, Funktionen, Funktionen, Arrays.",
+            "divide": "",
             "link": ""
         },
         {
             "title": "3. Teil des Kurses",
             "date": "22.Mai - 14.Juli 2023",
-            "description": "JavaScript Developer<br><br><hr>",
+            "description": "JavaScript Developer",
+            "divide": "<hr>",
             "link": ""
         },
         {
             "title": "PHP: Woche 4",
             "date": "15.Mai - 19.Mai 2023",
             "description": "Abschlussprojekt Grundlagen PHP/MySQL: blog-Webseite.<br>Die Webseite hat eine Möglichkeit, Beiträge hinzuzufügen, die in einer MySQL-Datenbank gespeichert werden. Das Hinzufügen von Beiträgen ist nach vorheriger Anmeldung möglich.",
+            "divide": "",
             "link": "https://github.com/mariuszbialas/php-project-blog"
         },
         {
             "title": "PHP: Woche 3",
             "date": "8.Mai - 12.Mai 2023",
             "description": "Projektarbeit: Forum - Benutzerverwaltung. ",
+            "divide": "",
             "link": ""
         },
         {
             "title": "PHP: Woche 2",
             "date": "2.Mai - 5.Mai 2023",
             "description": "Formulare, Grundlagen Datenbanken, SQL-Befehle, MYSQLi, PDO, Interaktion und Risiko, Fehlerprüfung , Externe Dateien.",
+            "divide": "",
             "link": ""
         },
         {
             "title": "PHP: Woche 1",
             "date": "24.Mai - 28.April 2023",
             "description": "PHP Grundlagen, Webserver einrichten und konfigurieren, HTML und PHP kombinieren, Request/Response, Bedingungen, Operatoren, Arrays, Funktionen.",
+            "divide": "",
             "link": ""
         },
         {
             "title": "2. Teil des Kurses",
             "date": "24.April - 19.Mai 2023",
-            "description": "Dynamische Webseiten mit PHP und mySOL<br><br><hr>",
+            "description": "Dynamische Webseiten mit PHP und mySOL",
+            "divide": "<hr>",
             "link": ""
         },
         {
             "title": "Java: Woche 8",
             "date": "17.April - 21.April 2023",
             "description": "Abschlussprojekt: Mein Kalendar<br>Mein Kalendar ist eine Java-Anwendung, die personalisierte Ereignisse wie Feiertage, Geburtstage, arbeitsfreie Tage, Sportveranstaltungen und Urlaubspläne anzeigt.",
+            "divide": "",
             "link": "https://github.com/mariuszbialas/java-project-MeinKalendar"
         },
         {
             "title": "Java: Woche 7",
             "date": "10.2023 - 14.April 2023",
             "description": "Abschlussprojekt: Mein Kalendar.",
+            "divide": "",
             "link": ""
         },
         {
             "title": "Java: Woche 6",
             "date": "3.April - 07.April 2023",
             "description": "Anbindung SQL-Datenbanken und mySQL, Multithreading,Serialisierung/Deserialisierung von Objekten, Erzeugung der Jar-Dateien (Weitergabe fertiger Anwendungen).",
+            "divide": "",
             "link": ""
         },
         {
             "title": "Java: Woche 5",
             "date": "27.März - 31.März 2023",
             "description": "Lamda-Ausdrücke, Collections, Dynamische Arrays, Generics, Dao Design Patterns, POJO-Klassen, Rekursivität.",
+            "divide": "",
             "link": ""
         },
         {
             "title": "Java: Woche 4",
             "date": "20.März - 24.März 2023",
             "description": "Objektorientiertes Programmieren (Abstrakte Klassen, Interfaces), GUI Oberfläche (Verwendung von AWT und Swing Steuerelementen, Adapterklassen, innere Klassen, anonyme Klassen Exceptions, Wrapperklassen, Erzeugung von Grafiken, Layout-Manager).",
+            "divide": "",
             "link": ""
         },
         {
             "title": "Java: Woche 3",
             "date": "13.März - 17.März 2023",
             "description": "Grundlegende Sprachkonzepte (Arrays, Zeichenketten und ihre Verarbeitung), Objektorientiertes Programmieren (Aufbau von Klassen, Vererbung, Polymorphie, Konstruktoren).",
+            "divide": "",
             "link": ""
         },
         {
             "title": "Java: Woche 2",
             "date": "6.März - 10.März 2023",
             "description": "Grundlegende Sprachkonzepte (Operatoren, Ein-/Ausgabe, Typkonvertierung).",
+            "divide": "",
             "link": ""
         },
         {
             "title": "Java: Woche 1",
             "date": "27.Februar - 3.März 2023",
             "description": "Allgemeine Grundlagen (Eclipse: Entwicklungsumgebung, Programmaufbau, Variablen, Gültigkeitsbereiche, Datentypen, Aufzählungstypen), Grundlegende Sprachkonzepte (Erstellung konsolenbasierter Programme).",
+            "divide": "",
             "link": ""
         },
         {
             "title": "1. Teil des Kurses",
             "date": "27.Februar - 21.April 2023",
-            "description": "Java-Entwickler Objektorientierte Programmierung<br><br><hr>",
+            "description": "Java-Entwickler Objektorientierte Programmierung",
+            "divide": "<hr>",
             "link": ""
         },
         {
-            "title": "Die Ausbildung hat begonnen",
+            "title": "Die Weiterbildung hat begonnen",
             "date": "27.Februar - 11.August 2023",
             "description": "Die Fullstack-Entwickler Ausbildung beim alfatraining Bildungszentrum dauert bis August 23, insgesamt 5 Monate und 2 Wochen. Der Unterricht findet von Montag bis Freitag von 08:30 bis 15:35 Uhr statt.",
+            "divide": "",
             "link": ""
-        }    
+        }
     ]
 }
-
-
-

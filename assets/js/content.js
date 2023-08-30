@@ -105,9 +105,17 @@ export const content = {
                 classes: ['post']
             });
 
+            if(post.divide) 
+                dom.create({
+                content: post.divide,
+                type: 'span',
+                parent: container,
+                classes: ['post']
+                })
+
             if(post.link) 
                 dom.create({
-                content: 'gitHub ❯❯❯',
+                content: 'gitHub repository ❯❯❯',
                 type: 'a',
                 parent: container,
                 attr: {'href': post.link, 'target': '_blank'},
