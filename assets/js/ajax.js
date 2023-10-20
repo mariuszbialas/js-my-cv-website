@@ -4,13 +4,13 @@ import settings from "./settings.js";
 
 export const ajax = {
 
-    aboutUrl : settings.menu[0].url,
+    startUrl : settings.dataJson,
 
-    async fetchData(url = this.aboutUrl) {
+    async fetchData(url = this.startUrl) {
         try {
           const response = await fetch(url);
-          const data = await response.json();
-          return data;
+          const json = await response.json();
+          return json;
         } catch (error) {
           throw new Error('Fehler bei Data lesen');
         }

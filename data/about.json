@@ -1,9 +1,0 @@
-{
-    "about": [
-        {
-            "description": 
-            "<h1>Hallo, ich bin Mariusz Bialas.</h1><br>Vor zwei Jahren habe ich meine Reise in die Welt der Programmierung begonnen. Während dieser Zeit habe ich mein Verständnis für Programmiersprachen erweitert und meine Fähigkeiten in der Webentwicklung kontinuierlich verbessert. Die praktische Anwendung meiner Kenntnisse in verschiedenen Projekten hat mich dazu inspiriert, immer weiterzulernen und meine Leidenschaft für die Programmierung weiter zu entfachen.<br>Seit Februar dieses Jahres setze ich meine Lernreise fort und absolviere den Kurs zum Fullstack-Entwickler. Am 11. August habe ich erfolgreich den Kurs Fullstack-Entwickler bei alfatraining Bildungszentrum abgeschlossen. Der Kurse würde auf 4 Abschnitte geteilt: <i>Java-Entwickler</i>, <i>Grundlagen PHP/MySQL</i>,  <i>JavaScript Developer</i> und <i>React JavaScript-Bibliothek</i>. Die Zertifikate können in sektion <strong>download</strong> Website heruntergeladen werden",
-            "img": "./assets/img/profil-photo.jpeg"
-        }
-    ]
-}

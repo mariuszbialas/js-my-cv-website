@@ -1,0 +1,694 @@
+{
+    "about": [
+        {
+            "id": 1,
+            "title": "Hallo, ich bin Mariusz Bialas",
+            "description": [
+                "Vor zwei Jahren habe ich meine Reise in die Welt der Programmierung begonnen. Während dieser Zeit habe ich mein Verständnis für Programmiersprachen erweitert und meine Fähigkeiten in der Webentwicklung kontinuierlich verbessert. Die praktische Anwendung meiner Kenntnisse in verschiedenen Projekten hat mich dazu inspiriert, immer weiter zu lernen und meine Leidenschaft für die Programmierung weiter zu entfachen.",
+                "Am 11. August 2023 habe ich erfolgreich den Kurs Fullstack-Entwickler bei alfatraining Bildungszentrum abgeschlossen. Der Kurse wurde in 4 Abschnitte geteilt: Java-Entwickler, Grundlagen PHP/MySQL, JavaScript Developer und React JavaScript-Bibliothek. Die Zertifikate können in sektion Download auf meiner Website heruntergeladen werden."
+            ],
+            "img": "profil-photo.jpeg"
+        }
+    ],
+    "knowledge": [
+        {
+            "id": 19,
+            "name": "Javascript",
+            "percent": 70
+        },
+        {
+            "id": 18,
+            "name": "Node.JS",
+            "percent": 70
+        },
+        {
+            "id": 17,
+            "name": "React.JS",
+            "percent": 65
+        },
+        {
+            "id": 16,
+            "name": "Vue.JS",
+            "percent": 40
+        },
+        {
+            "id": 15,
+            "name": "TypeScript",
+            "percent": 45
+        },
+        {
+            "id": 14,
+            "name": "Java SE",
+            "percent": 55
+        },
+        {
+            "id": 13,
+            "name": "PHP",
+            "percent": 60
+        },
+        {
+            "id": 20,
+            "name": "Wordpress",
+            "percent": 45
+        },
+        {
+            "id": 12,
+            "name": "MySQL Database",
+            "percent": 70
+        },
+        {
+            "id": 11,
+            "name": "couchDB/mongoDB",
+            "percent": 40
+        },
+        {
+            "id": 10,
+            "name": "Bootstrap",
+            "percent": 60
+        },
+        {
+            "id": 9,
+            "name": "HTML",
+            "percent": 75
+        },
+        {
+            "id": 8,
+            "name": "CSS",
+            "percent": 65
+        },
+        {
+            "id": 7,
+            "name": "Git/GitHub",
+            "percent": 50
+        },
+        {
+            "id": 6,
+            "name": "VSCode",
+            "percent": 70
+        },
+        {
+            "id": 5,
+            "name": "Eclipse",
+            "percent": 50
+        },
+        {
+            "id": 4,
+            "name": "WebStorm",
+            "percent": 60
+        },
+        {
+            "id": 3,
+            "name": "Deutsch",
+            "percent": 65
+        },
+        {
+            "id": 2,
+            "name": "Englisch",
+            "percent": 50
+        },
+        {
+            "id": 1,
+            "name": "Polnisch - Muttersprache",
+            "percent": 90
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "name": "Technische Universität von Ignacy Lukasiewicz",
+            "place": "Rzeszów, Polen",
+            "date": "10/1995 - 10/1996",
+            "description": "Fakultät für Elektrotechnik und Informatik"
+        },
+        {
+            "id": 2,
+            "name": "Berufsbildendes Technikum am Schulzentrum Mechanik-Elektronik",
+            "place": "Tarnów, Polen",
+            "date": "0/1990 - 06/1995",
+            "description": "Abschluss: Techniker – Elektronik"
+        }
+    ],
+    "expierience": [
+        {
+            "id": 9,
+            "company": "Bewerberphase",
+            "place": "",
+            "name": "",
+            "date": "08/2023",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "company": "alfatraining Bildungszentrum",
+            "place": "Saarbrücken",
+            "name": "Weiterbildung zum Fullstack-Entwickler",
+            "date": "02/2023 - 08/2023",
+            "description": "Java-Entwickler:in, Grundlagen PHP/MySQL, JavaScript Developer, React JavaScript-Bibliothek"
+        },
+        {
+            "id": 7,
+            "company": "ESS Zang",
+            "place": "Schmelz",
+            "name": "Elektriker",
+            "date": "03/2019 - 04/2022",
+            "description": "Technischer Mitarbeiter für Montage und Wartung von elektrische Anlagen."
+        },
+        {
+            "id": 6,
+            "company": "Keldo Electronics",
+            "place": "Kell am See",
+            "name": "Techniker",
+            "date": "10/2015 - 12/2018",
+            "description": "Technischer Mitarbeiter für Montage, Wartung und Programierung von sicherheitstechnischen Anlagen (Videoüberwachung, Alarmanlagen, Brandmeldeanlagen.)"
+        },
+        {
+            "id": 5,
+            "company": "Bewerberphase",
+            "place": "",
+            "name": "",
+            "date": "04/2015 - 09/2015",
+            "description": "parallel: Minijob Zeitungszusteller"
+        },
+        {
+            "id": 4,
+            "company": "KEB",
+            "place": "Lebach",
+            "name": "",
+            "date": "08/2014 - 03/2015",
+            "description": "Deutsch Sprachkurs B1"
+        },
+        {
+            "id": 3,
+            "company": "Gebrüder MEISER GmbH",
+            "place": "Schmelz-Limbach",
+            "name": "CNC-Maschinenbediener",
+            "date": "09/2012 - 07/2014",
+            "description": "Technischer Mitarbeiter für Bedienung von Produktionsmaschinen (CNC)."
+        },
+        {
+            "id": 2,
+            "company": "Übersiedlung in die BRD",
+            "place": "Saarland, Deutschland",
+            "name": "",
+            "date": "09/2012",
+            "description": ""
+        },
+        {
+            "id": 1,
+            "company": "Techniker und Kundenbetreuer",
+            "place": "Polen",
+            "name": "",
+            "date": "10/1996 - 08/2012",
+            "description": ""
+        }
+    ],
+    "blog": [
+        {
+            "id": 42,
+            "title": "Wordpress Development",
+            "date": "16 - 20.Oktober 2023",
+            "description": "Wordpress PHP: Plugins, Themes",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 41,
+            "title": "GitFlow Test",
+            "date": "2.Oktober 2023",
+            "description": "GitFlow: ein alternatives Git-Branching Modell",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/git-flow-test",
+            "url": ""
+        },
+        {
+            "id": 40,
+            "title": "JavaScript: RestFull Api 2.0",
+            "date": "25.Semptember 2023",
+            "description": "JavaScript - Node.JS - Express.JS: restFull APi mit JSON Dataien für meine Webseite, ohne Databankverbindung",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/js-restfull-api-2",
+            "url": "http://api.bialas.cloud:3001/"
+        },
+        {
+            "id": 39,
+            "title": "React.JS: My Homepage",
+            "date": "18 - 22.Semptember 2023",
+            "description": "React.JS + Bootstrap Version of My Website",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/react-my-website",
+            "url": ""
+        },
+        {
+            "id": 38,
+            "title": "TypeScript: Grundlagen",
+            "date": "12 - 15.Semptember 2023",
+            "description": "MegaK - Online Kurs: Übungen auf Playgroung typescriptlang.org",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 37,
+            "title": "ITCS Köln 2023",
+            "date": "8.Semptember 2023",
+            "description": "Tech Konferenz, IT-Jobmesse und Festival in Köln",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 36,
+            "title": "TypeScript: Grundlagen",
+            "date": "4 - 7.Semptember 2023",
+            "description": "MegaK - Online Kurs: Casting, Interfaces und Klassen",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 35,
+            "title": "TypeScript: Grundlagen",
+            "date": "28.August - 1.Semptember 2023",
+            "description": "MegaK - Online Kurs: Transpilierung/Kompilierung, Konfiguration der Entwicklungsumgebung, Typen",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 34,
+            "title": "React JS: Projekt",
+            "date": "28.August - 30.August 2023",
+            "description": "Show random user (https://randomuser.me/api). Die Anwendung erstellt eine Liste zufälliger Benutzer, die mithilfe der API von der Website randomuser.me abgerufen werden. Im Projekt wurde die Bibliothek Bootstrap 5 verwendet.",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/react-show-randomuser",
+            "url": ""
+        },
+        {
+            "id": 33,
+            "title": "Bewerberphase",
+            "date": "28.August",
+            "description": "Ich bin auf der Suche nach einem Team, in dem ich meine erworbenen Kenntnisse in der Praxis anwenden kann.",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 32,
+            "title": "Urlaub 🏝️",
+            "date": "14.August - 25.August 2023",
+            "description": "",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 31,
+            "title": "Ende der Weiterbildung",
+            "date": "11.August 2023",
+            "description": "",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 30,
+            "title": "React JS: Woche 4",
+            "date": "7.August - 11.August 2023",
+            "description": "Projektarbeit: Fußball-STATS: Neuigkeiten, Berichte und Updates zu nationalen und internationalen Fußball-Meisterschaften, Ligen und Mannschaften.",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/react-project-footballStats",
+            "url": ""
+        },
+        {
+            "id": 29,
+            "title": "React JS: Woche 3",
+            "date": "31.Juli - 4.August 2023",
+            "description": "Rest API Aufbau, Front- und Back-end Integration, Classes, Flux/Redux",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 28,
+            "title": "React JS: Woche 2",
+            "date": "24.Juli - 28.Juli 2023",
+            "description": "React Router, React State, Serveranbindung DB",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 27,
+            "title": "React JS: Woche 1",
+            "date": "17.Juli - 21.Juli 2023",
+            "description": "Einführung und IDE's, JavaScript Frameworks: Angular, Vue und React, Projektplanung, React Komponenten",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 26,
+            "title": "4. Teil des Kurses",
+            "date": "17.Juli - 11.August 2023",
+            "description": "React JavaScript-Bibliothek",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 25,
+            "title": "JavaScript: Woche 8",
+            "date": "7.Juli - 14.Juli 2023",
+            "description": "Projektarbeit: RESTful API.<br>Das Projekt ist eine RESTful API in ExpresJS programmiert.<br>Datenquelle: CouchDB-Datenbank",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/js-project-rest-api",
+            "url": ""
+        },
+        {
+            "id": 24,
+            "title": "JavaScript: Woche 8",
+            "date": "7.Juli - 14.Juli 2023",
+            "description": "Projektarbeit: Familienkalender.<br>Das Projekt ist eine JavaScript Vanilla Webseite, die personalisierte Veranstaltungen wie Feiertage, Geburtstage, arbeitsfreie Tage, usw. anzeigt.",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/js-project-calendar",
+            "url": ""
+        },
+        {
+            "id": 23,
+            "title": "JavaScript: Woche 7",
+            "date": "3.Juli - 7.Juli 2023",
+            "description": "Websocket, KI Einführung, React.JS und Vue.JS Grundlagen",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 22,
+            "title": "JavaScript: Woche 6",
+            "date": "26.Juni - 30.Juni 2023",
+            "description": "Import/Export , WebWorker, Node JS, Node Module, WebServer, Middleware, Database Verbindung, couchDB, Websocker",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 21,
+            "title": "JavaScript: Woche 5",
+            "date": "19.Juni - 23.Juni 2023",
+            "description": "Arrays, Canvas, Objekte, Konstruktoren, Klassen, Prototiping, Iteratoren, Maps, Promisses",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 20,
+            "title": "JavaScript: Woche 4",
+            "date": "12.Juni - 16.Juni 2023",
+            "description": "Projektarbeit: Warenkorb.<br>Die Webseite ist ein E-Shop für Oldtimer-Autoplakate der Marke Opel in verschiedenen Größen. Man kann das ausgewählte Plakat zum Warenkorb hinzufügen. Der Warenkorb wird im lokalen Speicher des Browsers gespeichert.",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/js-projekt-warenkorb",
+            "url": ""
+        },
+        {
+            "id": 19,
+            "title": "JavaScript: Woche 3",
+            "date": "5.Juni - 9.Juni 2023",
+            "description": "AJAX, Funktionsweise, http-Anfragen, XMLHttpRequest-Objekt, Eigene Bibliothek erstellen, jQuery",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 18,
+            "title": "JavaScript: Woche 2",
+            "date": "30.Mai - 02.Juni 2023",
+            "description": "Objekte, DOM-Manipulation mit JavaScript, HTML-Selektieren, DOM-Elemente anlegen,DOM-Elemente kopieren, verschieben, löschen, Cookies, Webstorage.",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 17,
+            "title": "JavaScript: Woche 1",
+            "date": "22.Mai - 26.Mai 2023",
+            "description": "Einbinden in HTML-Seiten, Variablen, Konstanten und Datentypen, Operatoren, Kontrollstrukturen, Bedingte Anweisungen, Bedingte Anweisungen, Schleifen, Funktionen, Funktionen, Arrays.",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 16,
+            "title": "3. Teil des Kurses",
+            "date": "22.Mai - 14.Juli 2023",
+            "description": "JavaScript Developer",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 15,
+            "title": "PHP: Woche 4",
+            "date": "15.Mai - 19.Mai 2023",
+            "description": "Abschlussprojekt Grundlagen PHP/MySQL: blog-Webseite.<br>Die Webseite hat eine Möglichkeit, Beiträge hinzuzufügen, die in einer MySQL-Datenbank gespeichert werden. Das Hinzufügen von Beiträgen ist nach vorheriger Anmeldung möglich.",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/php-project-blog",
+            "url": ""
+        },
+        {
+            "id": 14,
+            "title": "PHP: Woche 3",
+            "date": "8.Mai - 12.Mai 2023",
+            "description": "Projektarbeit: Forum - Benutzerverwaltung. ",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 13,
+            "title": "PHP: Woche 2",
+            "date": "2.Mai - 5.Mai 2023",
+            "description": "Formulare, Grundlagen Datenbanken, SQL-Befehle, MYSQLi, PDO, Interaktion und Risiko, Fehlerprüfung , Externe Dateien.",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 12,
+            "title": "PHP: Woche 1",
+            "date": "24.Mai - 28.April 2023",
+            "description": "PHP Grundlagen, Webserver einrichten und konfigurieren, HTML und PHP kombinieren, Request/Response, Bedingungen, Operatoren, Arrays, Funktionen.",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 11,
+            "title": "2. Teil des Kurses",
+            "date": "24.April - 19.Mai 2023",
+            "description": "Dynamische Webseiten mit PHP und mySOL",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 10,
+            "title": "Java: Woche 8",
+            "date": "17.April - 21.April 2023",
+            "description": "Abschlussprojekt: Mein Kalendar<br>Mein Kalendar ist eine Java-Anwendung, die personalisierte Ereignisse wie Feiertage, Geburtstage, arbeitsfreie Tage, Sportveranstaltungen und Urlaubspläne anzeigt.",
+            "line": false,
+            "github": "https://github.com/mariuszbialas/java-project-MeinKalendar",
+            "url": ""
+        },
+        {
+            "id": 9,
+            "title": "Java: Woche 7",
+            "date": "10.2023 - 14.April 2023",
+            "description": "Abschlussprojekt: Mein Kalendar.",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 8,
+            "title": "Java: Woche 6",
+            "date": "3.April - 07.April 2023",
+            "description": "Anbindung SQL-Datenbanken und mySQL, Multithreading,Serialisierung/Deserialisierung von Objekten, Erzeugung der Jar-Dateien (Weitergabe fertiger Anwendungen).",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 7,
+            "title": "Java: Woche 5",
+            "date": "27.März - 31.März 2023",
+            "description": "Lamda-Ausdrücke, Collections, Dynamische Arrays, Generics, Dao Design Patterns, POJO-Klassen, Rekursivität.",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 6,
+            "title": "Java: Woche 4",
+            "date": "20.März - 24.März 2023",
+            "description": "Objektorientiertes Programmieren (Abstrakte Klassen, Interfaces), GUI Oberfläche (Verwendung von AWT und Swing Steuerelementen, Adapterklassen, innere Klassen, anonyme Klassen Exceptions, Wrapperklassen, Erzeugung von Grafiken, Layout-Manager).",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 5,
+            "title": "Java: Woche 3",
+            "date": "13.März - 17.März 2023",
+            "description": "Grundlegende Sprachkonzepte (Arrays, Zeichenketten und ihre Verarbeitung), Objektorientiertes Programmieren (Aufbau von Klassen, Vererbung, Polymorphie, Konstruktoren).",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 4,
+            "title": "Java: Woche 2",
+            "date": "6.März - 10.März 2023",
+            "description": "Grundlegende Sprachkonzepte (Operatoren, Ein-/Ausgabe, Typkonvertierung).",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 3,
+            "title": "Java: Woche 1",
+            "date": "27.Februar - 3.März 2023",
+            "description": "Allgemeine Grundlagen (Eclipse: Entwicklungsumgebung, Programmaufbau, Variablen, Gültigkeitsbereiche, Datentypen, Aufzählungstypen), Grundlegende Sprachkonzepte (Erstellung konsolenbasierter Programme).",
+            "line": false,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 2,
+            "title": "1. Teil des Kurses",
+            "date": "27.Februar - 21.April 2023",
+            "description": "Java-Entwickler Objektorientierte Programmierung",
+            "line": true,
+            "github": "",
+            "url": ""
+        },
+        {
+            "id": 1,
+            "title": "Die Weiterbildung hat begonnen",
+            "date": "27.Februar - 11.August 2023",
+            "description": "Die Fullstack-Entwickler Ausbildung beim alfatraining Bildungszentrum dauert bis August 23, insgesamt 5 Monate und 2 Wochen. Der Unterricht findet von Montag bis Freitag von 08:30 bis 15:35 Uhr statt.",
+            "line": false,
+            "github": "",
+            "url": ""
+        }
+    ],
+    "download": [
+        {
+            "id": 8,
+            "name": "Mein Lebenslauf",
+            "url": "./assets/pdf/lebenslauf-bialas.pdf",
+            "img": "download"
+        },
+        {
+            "id": 7,
+            "name": "Zertifikat Fullstack Entwickler",
+            "url": "./assets/pdf/kombizertifikat.pdf",
+            "img": "download"
+        },
+        {
+            "id": 6,
+            "name": "Java-Entwickler",
+            "url": "./assets/pdf/zertifikat-java.pdf",
+            "img": "download"
+        },
+        {
+            "id": 5,
+            "name": "Grundlagen PHP/MySQL",
+            "url": "./assets/pdf/zertifikat-php.pdf",
+            "img": "download"
+        },
+        {
+            "id": 4,
+            "name": "Javascript Developer",
+            "url": "./assets/pdf/zertifikat-javascript.pdf",
+            "img": "download"
+        },
+        {
+            "id": 3,
+            "name": "JavaScript Bibliothek React",
+            "url": "./assets/pdf/zertifikat-reactjs.pdf",
+            "img": "download"
+        },
+        {
+            "id": 1,
+            "name": "Berufsannerkennungs",
+            "url": "./assets/pdf/berufsannerkennungs.pdf",
+            "img": "download"
+        }
+    ],
+    "projects": [
+        {
+            "id": 7,
+            "name": "Mein Kalendar",
+            "type": "Java",
+            "description": "Abschlusprojekt Java SE Kurs bei \"alfatraining\" Bildungszentrum: Mein Kalendar ist eine Java-Anwendung, die personalisierte Ereignisse wie Feiertage, Geburtstage, arbeitsfreie Tage, Sportveranstaltungen und Urlaubspläne anzeigt. Die Anwendung verwendet eine MySQL-Datenbank, um Daten effizient und sicher zu speichern und zu verwalten.",
+            "github": "https://github.com/mariuszbialas/java-project-MeinKalendar",
+            "url": "",
+            "pics": []
+        },
+        {
+            "id": 6,
+            "name": "Mz Homepage",
+            "type": "JavaScript",
+            "description": "Erste Version von einer \"Über mich\" Webseite. Mein Profil mit Kenntnissen, Ausbildung usw.",
+            "github": "https://github.com/mariuszbialas/myWebsite",
+            "url": "",
+            "pics": []
+        },
+        {
+            "id": 5,
+            "name": "User Info Component",
+            "type": "React.JS",
+            "description": "Erste Versuche, die erworbenen Programmierkenntnisse mit der React.JS-Bibliothek anzuwenden. Komponentenprojekt, das Informationen über den Benutzer anzeigt.",
+            "github": "https://github.com/mariuszbialas/warriors",
+            "url": "",
+            "pics": []
+        },
+        {
+            "id": 4,
+            "name": "Warriors",
+            "type": "TypeScript",
+            "description": "Erste Versuche, die erworbenen Kenntnisse der TypeScript-Programmierung anzuwenden. Ein Spiel, bei dem zwei Kämpfer gegeneinander kämpfen. Die Kämpfer erhalten am Anfang Lebenspunkte, die sich aus der Kraft * 10 erschließen. Der verteidigende Kämpfer hat ein Verteidigungsschild, das sich aus der Summe der Abwehr & Agilität erschließt.",
+            "github": "https://github.com/mariuszbialas/warriors",
+            "url": "",
+            "pics": []
+        },
+        {
+            "id": 3,
+            "name": "Google Photos Clone",
+            "type": "JavaScript",
+            "description": "Erste Versuche, die erworbenen Kenntnisse der JavaScript-Programmierung anzuwenden",
+            "github": "https://github.com/mariuszbialas/g-photos",
+            "url": "https://mariuszbialas.github.io/g-photos/",
+            "pics": []
+        },
+        {
+            "id": 2,
+            "name": "Lieferando Clone",
+            "type": "JavaScript",
+            "description": "Erste Versuche, die erworbenen Kenntnisse der JavaScript-Programmierung anzuwenden",
+            "github": "https://github.com/mariuszbialas/lieferando",
+            "url": "https://mariuszbialas.github.io/lieferando/",
+            "pics": []
+        },
+        {
+            "id": 1,
+            "name": "Instagram Clone",
+            "type": "JavaScript",
+            "description": "Erste Versuche, die erworbenen Kenntnisse der JavaScript-Programmierung anzuwenden",
+            "github": "https://github.com/mariuszbialas/instagram",
+            "url": "https://mariuszbialas.github.io/instagram/",
+            "pics": []
+        }
+    ]
+}

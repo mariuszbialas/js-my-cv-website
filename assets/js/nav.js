@@ -18,19 +18,13 @@ export const nav = {
                 classes: ['nav']
             });
 
-            const icon = dom.create({
-                content: item.icon,
-                type: 'span',
-                parent: nav,
-                classes: ['material-symbols-outlined'],
-                attr: { 'id': item.id },
-                listeners: { 'click': (e) => this.click(e.target.id) }
-            });
-
             const text = dom.create({
                 content: item.name,
                 type: 'span',
-                parent: nav
+                parent: nav,
+                classes: [''],
+                attr: { 'id': item.id },
+                listeners: { 'click': (e) => this.click(e.target.id) }
             });
 
         }
@@ -40,22 +34,22 @@ export const nav = {
         
         switch (name) {
             case 'about':
-                ajax.fetchData(`/data/${name}.json`)
+                ajax.fetchData(settings.dataJson)
                         .then(content.renderAbout);
                 break;
         
             case 'knowledge':
-                ajax.fetchData(`/data/${name}.json`)
+                ajax.fetchData(settings.dataJson)
                         .then(content.renderKnowledge);
                 break;
         
             case 'blog':
-                ajax.fetchData(`/data/${name}.json`)
+                ajax.fetchData(settings.dataJson)
                         .then(content.renderBlog);
                 break;
 
             case 'download':
-                ajax.fetchData(`/data/${name}.json`)
+                ajax.fetchData(settings.dataJson)
                         .then(content.renderDownload);
                 break;
         }
